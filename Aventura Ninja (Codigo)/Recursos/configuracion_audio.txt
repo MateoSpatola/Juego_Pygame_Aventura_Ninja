@@ -1,0 +1,2 @@
+musica:0.08
+sonidos:0.25
